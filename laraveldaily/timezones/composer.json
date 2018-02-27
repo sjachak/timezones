@@ -1,0 +1,14 @@
+{
+    "name": "laraveldaily/timezones",
+    "description": "This is my first demo package",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shitaljacahk",
+            "email": "shital.jachak@smartdatainc.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
